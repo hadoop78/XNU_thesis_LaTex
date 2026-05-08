@@ -140,8 +140,8 @@
 \hnu@define@term{covername} % 定义全局变量 \hnu@covername，用于存储封面校名字样路径
 
 % 论文类别（用于页眉显示）
-% 这里不再依赖 doctor 选项，直接按你的需求固定为“学士学位论文”
-\newcommand\hnu@yemeiname{学士学位论文}%
+% 这里不再依赖 doctor 选项，直接按你的需求固定为“湘南学院学士学位论文”
+\newcommand\hnu@yemeiname{湘南学院学士学位论文}%
 
 % 表格：
 % 三线表
